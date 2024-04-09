@@ -1,2 +1,3 @@
 # new-repository
-this is my first git repositary
+This is my first git repositary
+auhtor - shivam gupta
